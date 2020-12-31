@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-    Program: GPIO Button Basics (patterns.py)
+    Program: LED Patterns (patterns.py)
     Author:  M. Heidenreich, (c) 2020
 
     Description: This code is provided in support of the following YouTube tutorial:
