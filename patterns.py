@@ -82,7 +82,7 @@ except KeyboardInterrupt:
 
 finally:
     is_running = False
-    sleep(1.5*delay)
+    worker.join()
 
     for id in range(6):
         leds[id].close()
